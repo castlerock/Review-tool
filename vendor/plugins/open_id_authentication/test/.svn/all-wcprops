@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/open_id_authentication/test
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/open_id_authentication/test/test_helper.rb
+END
+normalize_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/open_id_authentication/test/normalize_test.rb
+END
+status_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/open_id_authentication/test/status_test.rb
+END
+open_id_authentication_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/open_id_authentication/test/open_id_authentication_test.rb
+END
+mem_cache_store_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/open_id_authentication/test/mem_cache_store_test.rb
+END

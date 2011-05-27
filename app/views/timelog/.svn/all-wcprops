@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/timelog
+END
+_list.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/timelog/_list.rhtml
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/timelog/index.html.erb
+END
+index.api.rsb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/timelog/index.api.rsb
+END
+edit.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/timelog/edit.rhtml
+END
+_date_range.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/timelog/_date_range.rhtml
+END
+show.api.rsb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/timelog/show.api.rsb
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4818/branches/1.1-stable/lib/redmine/scm/adapters
+END
+subversion_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4585/branches/1.1-stable/lib/redmine/scm/adapters/subversion_adapter.rb
+END
+bazaar_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4585/branches/1.1-stable/lib/redmine/scm/adapters/bazaar_adapter.rb
+END
+abstract_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4614/branches/1.1-stable/lib/redmine/scm/adapters/abstract_adapter.rb
+END
+git_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4627/branches/1.1-stable/lib/redmine/scm/adapters/git_adapter.rb
+END
+mercurial_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4639/branches/1.1-stable/lib/redmine/scm/adapters/mercurial_adapter.rb
+END
+filesystem_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4585/branches/1.1-stable/lib/redmine/scm/adapters/filesystem_adapter.rb
+END
+cvs_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4818/branches/1.1-stable/lib/redmine/scm/adapters/cvs_adapter.rb
+END
+darcs_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4751/branches/1.1-stable/lib/redmine/scm/adapters/darcs_adapter.rb
+END

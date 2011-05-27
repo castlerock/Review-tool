@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5020/branches/1.1-stable/lib
+END
+faster_csv.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4585/branches/1.1-stable/lib/faster_csv.rb
+END
+redmine.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4585/branches/1.1-stable/lib/redmine.rb
+END
+tabular_form_builder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4585/branches/1.1-stable/lib/tabular_form_builder.rb
+END
+redcloth3.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4585/branches/1.1-stable/lib/redcloth3.rb
+END
+ar_condition.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4585/branches/1.1-stable/lib/ar_condition.rb
+END
+diff.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4585/branches/1.1-stable/lib/diff.rb
+END

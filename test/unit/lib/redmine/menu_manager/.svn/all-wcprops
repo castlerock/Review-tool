@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4585/branches/1.1-stable/test/unit/lib/redmine/menu_manager
+END
+menu_item_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4585/branches/1.1-stable/test/unit/lib/redmine/menu_manager/menu_item_test.rb
+END
+menu_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4585/branches/1.1-stable/test/unit/lib/redmine/menu_manager/menu_helper_test.rb
+END
+mapper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4585/branches/1.1-stable/test/unit/lib/redmine/menu_manager/mapper_test.rb
+END

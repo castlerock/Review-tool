@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/journals
+END
+_notes_form.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/journals/_notes_form.rhtml
+END
+update.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/journals/update.rjs
+END
+edit.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/journals/edit.rjs
+END
+index.rxml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/journals/index.rxml
+END

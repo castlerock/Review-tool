@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4971/branches/1.1-stable/app/views/settings
+END
+_issues.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/settings/_issues.rhtml
+END
+_general.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/settings/_general.rhtml
+END
+_authentication.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/settings/_authentication.rhtml
+END
+_mail_handler.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/settings/_mail_handler.rhtml
+END
+plugin.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/settings/plugin.rhtml
+END
+_display.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4971/branches/1.1-stable/app/views/settings/_display.rhtml
+END
+edit.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/settings/edit.rhtml
+END
+_repositories.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/settings/_repositories.rhtml
+END
+_notifications.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4771/branches/1.1-stable/app/views/settings/_notifications.rhtml
+END
+_projects.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/settings/_projects.rhtml
+END

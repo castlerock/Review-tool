@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4585/branches/1.1-stable/extra/svn
+END
+reposman.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4585/branches/1.1-stable/extra/svn/reposman.rb
+END
+svnserve.wrapper
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4585/branches/1.1-stable/extra/svn/svnserve.wrapper
+END
+Redmine.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4585/branches/1.1-stable/extra/svn/Redmine.pm
+END
+create_views.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4585/branches/1.1-stable/extra/svn/create_views.sql
+END

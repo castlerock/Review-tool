@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4762/branches/1.1-stable/app/views/projects/settings
+END
+_issue_categories.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/projects/settings/_issue_categories.rhtml
+END
+_repository.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/projects/settings/_repository.rhtml
+END
+_wiki.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/projects/settings/_wiki.rhtml
+END
+_activities.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/projects/settings/_activities.rhtml
+END
+_modules.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4660/branches/1.1-stable/app/views/projects/settings/_modules.rhtml
+END
+_versions.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/projects/settings/_versions.rhtml
+END
+_boards.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/projects/settings/_boards.rhtml
+END
+_members.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4762/branches/1.1-stable/app/views/projects/settings/_members.rhtml
+END

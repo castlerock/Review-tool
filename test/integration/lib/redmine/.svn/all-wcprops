@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4585/branches/1.1-stable/test/integration/lib/redmine
+END
+menu_manager_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4585/branches/1.1-stable/test/integration/lib/redmine/menu_manager_test.rb
+END
+themes_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4585/branches/1.1-stable/test/integration/lib/redmine/themes_test.rb
+END

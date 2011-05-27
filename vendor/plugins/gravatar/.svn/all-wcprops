@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/gravatar
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/gravatar/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/gravatar/README.rdoc
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/gravatar/.gitignore
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/gravatar/init.rb
+END
+MIT-LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/gravatar/MIT-LICENSE
+END
+about.yml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/gravatar/about.yml
+END

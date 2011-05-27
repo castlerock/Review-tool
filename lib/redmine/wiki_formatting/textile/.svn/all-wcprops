@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4585/branches/1.1-stable/lib/redmine/wiki_formatting/textile
+END
+helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4585/branches/1.1-stable/lib/redmine/wiki_formatting/textile/helper.rb
+END
+formatter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4585/branches/1.1-stable/lib/redmine/wiki_formatting/textile/formatter.rb
+END

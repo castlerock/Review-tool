@@ -1,0 +1,65 @@
+<%
+# Code Review plugin for Redmine
+# Copyright (C) 2009  Haruyuki Iida
+#
+# This program is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License
+# as published by the Free Software Foundation; either version 2
+# of the License, or (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+-%>
+<div class="code_review">
+  
+</div>
+<div id="review-form-frame">
+  <div id="review-form">
+  
+  </div>
+</div>
+<%= "#############" %>
+<%= puts "my Path" + @path %>
+<%= puts @rev %>
+
+<% javascript_tag do %>
+  add_form_title = "<%= l(:label_add_review) %>";
+  review_dialog_title = "<%= l(:code_review) %>";
+  var addReviewUrl = '<%= url_for :controller => 'code_review', :action => 'new', :id=>@project %>';
+  var is_readonly = true;
+  <% if authorize_for('code_review', 'new') -%>
+    is_readonly = false;
+  <% end %>
+  var is_diff = false;
+  <% if @action_type == 'diff' or (@attachment and @attachment.is_diff?) -%>
+     is_diff = true;
+  <% end %>
+  action_type = '<%= @action_type %>';
+  rev = '<%= @rev %>';
+  rev_to = '<%= @rev_to %>';
+  path = '<%= @path %>';
+  setAddReviewButton(addReviewUrl, '<%= @change.id if @change %>', '<%= image_tag('edit.png', :alt => l(:label_add_review), :title => l(:label_add_review)) %>', is_readonly, is_diff, '<%= @attachment_id%>' );
+
+  showReviewUrl = '<%= url_for :controller => 'code_review', :action => 'show', :id=>@project %>';
+  showReviewImageTag = '<%= image_tag('review.png', :plugin => 'redmine_code_review', :alt => l(:label_show_review), :title => l(:label_show_review)) %>';
+  showClosedReviewImageTag = '<%= image_tag('closed_review.png', :plugin => 'redmine_code_review', :alt => l(:label_show_review), :title => l(:label_show_review)) %>';
+<%= puts @reviews.count %>
+  <% for review in @reviews do %>
+<%= puts "#############" %>
+    <%= puts review.line %>
+<%=puts review.id %>
+<%= puts review.is_closed?%>
+<%= puts review.file_count %>
+    setShowReviewButton(<%= review.line %>, <%= review.id %>, <%= review.is_closed?%>, <%= review.file_count %> );
+  <% end %>
+
+  <% if @show_review_id -%>
+  popupReview(<%= @show_review.line %>, <%= @show_review_id %>);
+  <% end -%>
+<% end %>

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4660/branches/1.1-stable/test/integration
+END
+application_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4585/branches/1.1-stable/test/integration/application_test.rb
+END
+routing_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4585/branches/1.1-stable/test/integration/routing_test.rb
+END
+admin_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4585/branches/1.1-stable/test/integration/admin_test.rb
+END
+projects_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4585/branches/1.1-stable/test/integration/projects_test.rb
+END
+issues_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4585/branches/1.1-stable/test/integration/issues_test.rb
+END
+account_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4585/branches/1.1-stable/test/integration/account_test.rb
+END
+layout_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4585/branches/1.1-stable/test/integration/layout_test.rb
+END

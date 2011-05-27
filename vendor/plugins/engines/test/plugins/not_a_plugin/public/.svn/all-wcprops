@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/engines/test/plugins/not_a_plugin/public
+END
+should_not_be_copied.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/engines/test/plugins/not_a_plugin/public/should_not_be_copied.txt
+END

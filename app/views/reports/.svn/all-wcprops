@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/reports
+END
+issue_report.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/reports/issue_report.rhtml
+END
+_details.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/reports/_details.rhtml
+END
+_simple.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/reports/_simple.rhtml
+END
+issue_report_details.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/reports/issue_report_details.rhtml
+END

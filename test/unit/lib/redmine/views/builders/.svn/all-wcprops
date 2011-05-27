@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4585/branches/1.1-stable/test/unit/lib/redmine/views/builders
+END
+xml_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4585/branches/1.1-stable/test/unit/lib/redmine/views/builders/xml_test.rb
+END
+json_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4585/branches/1.1-stable/test/unit/lib/redmine/views/builders/json_test.rb
+END

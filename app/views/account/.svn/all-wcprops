@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/account
+END
+password_recovery.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/account/password_recovery.rhtml
+END
+lost_password.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/account/lost_password.rhtml
+END
+register.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/account/register.rhtml
+END
+login.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4585/branches/1.1-stable/app/views/account/login.rhtml
+END

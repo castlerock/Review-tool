@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/engines/test/app/views/plugin_mail
+END
+mail_from_plugin_with_application_template.text.plain.erb
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/engines/test/app/views/plugin_mail/mail_from_plugin_with_application_template.text.plain.erb
+END
+multipart_from_plugin_with_application_template_plain.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/engines/test/app/views/plugin_mail/multipart_from_plugin_with_application_template_plain.html.erb
+END

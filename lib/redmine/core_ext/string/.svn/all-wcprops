@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4585/branches/1.1-stable/lib/redmine/core_ext/string
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4585/branches/1.1-stable/lib/redmine/core_ext/string/inflections.rb
+END
+conversions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4585/branches/1.1-stable/lib/redmine/core_ext/string/conversions.rb
+END

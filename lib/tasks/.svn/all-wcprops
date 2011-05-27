@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5017/branches/1.1-stable/lib/tasks
+END
+deprecated.rake
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4585/branches/1.1-stable/lib/tasks/deprecated.rake
+END
+jdbc.rake
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4585/branches/1.1-stable/lib/tasks/jdbc.rake
+END
+extract_fixtures.rake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4585/branches/1.1-stable/lib/tasks/extract_fixtures.rake
+END
+reminder.rake
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4585/branches/1.1-stable/lib/tasks/reminder.rake
+END
+metrics.rake
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4585/branches/1.1-stable/lib/tasks/metrics.rake
+END
+initializers.rake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4585/branches/1.1-stable/lib/tasks/initializers.rake
+END
+permissions.rake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4585/branches/1.1-stable/lib/tasks/permissions.rake
+END
+load_default_data.rake
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4585/branches/1.1-stable/lib/tasks/load_default_data.rake
+END
+testing.rake
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4689/branches/1.1-stable/lib/tasks/testing.rake
+END
+watchers.rake
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4585/branches/1.1-stable/lib/tasks/watchers.rake
+END
+plugins.rake
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4585/branches/1.1-stable/lib/tasks/plugins.rake
+END
+yardoc.rake
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4585/branches/1.1-stable/lib/tasks/yardoc.rake
+END
+locales.rake
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5017/branches/1.1-stable/lib/tasks/locales.rake
+END
+migrate_from_trac.rake
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4585/branches/1.1-stable/lib/tasks/migrate_from_trac.rake
+END
+migrate_from_mantis.rake
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4779/branches/1.1-stable/lib/tasks/migrate_from_mantis.rake
+END
+email.rake
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4585/branches/1.1-stable/lib/tasks/email.rake
+END
+migrate_plugins.rake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4585/branches/1.1-stable/lib/tasks/migrate_plugins.rake
+END
+ci.rake
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4659/branches/1.1-stable/lib/tasks/ci.rake
+END
+fetch_changesets.rake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4585/branches/1.1-stable/lib/tasks/fetch_changesets.rake
+END

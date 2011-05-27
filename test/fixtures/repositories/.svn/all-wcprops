@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4684/branches/1.1-stable/test/fixtures/repositories
+END
+darcs_repository.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4585/branches/1.1-stable/test/fixtures/repositories/darcs_repository.tar.gz
+END
+mercurial_repository.hg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4684/branches/1.1-stable/test/fixtures/repositories/mercurial_repository.hg
+END
+subversion_repository.dump.gz
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4585/branches/1.1-stable/test/fixtures/repositories/subversion_repository.dump.gz
+END
+bazaar_repository.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4585/branches/1.1-stable/test/fixtures/repositories/bazaar_repository.tar.gz
+END
+git_repository.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4585/branches/1.1-stable/test/fixtures/repositories/git_repository.tar.gz
+END
+filesystem_repository.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4585/branches/1.1-stable/test/fixtures/repositories/filesystem_repository.tar.gz
+END
+cvs_repository.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4585/branches/1.1-stable/test/fixtures/repositories/cvs_repository.tar.gz
+END

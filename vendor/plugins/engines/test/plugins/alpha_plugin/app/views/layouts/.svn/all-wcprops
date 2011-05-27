@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/engines/test/plugins/alpha_plugin/app/views/layouts
+END
+plugin_layout.erb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/4585/branches/1.1-stable/vendor/plugins/engines/test/plugins/alpha_plugin/app/views/layouts/plugin_layout.erb
+END
