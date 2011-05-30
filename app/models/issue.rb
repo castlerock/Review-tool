@@ -88,7 +88,7 @@ class Issue < ActiveRecord::Base
 
   before_create :default_assign
   before_save :close_duplicates, :update_done_ratio_from_issue_status
-  after_save :reschedule_following_issues, :update_nested_set_attributes, :update_parent_attributes, :create_journal
+  after_save :reschedule_following_issues, :update_nested_set_attributes, :update_parent_attributes, :create_journal, :update_code_review_on_complete
   after_destroy :destroy_children
   after_destroy :update_parent_attributes
   
@@ -848,6 +848,17 @@ class Issue < ActiveRecord::Base
       @current_journal.save
       # reset current journal
       init_journal @current_journal.user, @current_journal.notes
+    end
+  end
+
+  def update_code_review_on_complete
+    if self.status_id == 3
+      current_review = CodeReview.find_by_issue_id(self.id)
+       unless current_review.blank?
+          rev_to = current_review.rev
+          latest_revision,new_change_id = current_review.get_latest_version
+          current_review.update_attributes(:change_id=>new_change_id,:rev_to=>rev_to,:rev=>latest_revision) unless latest_revision.blank? and new_change_id.blank?
+       end 
     end
   end
 
