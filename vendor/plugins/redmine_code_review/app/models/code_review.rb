@@ -207,9 +207,10 @@ class CodeReview < ActiveRecord::Base
   end
   
   # Added by Vigram 30th May 2011 - Review
+  # Just for A TEST
   # This is to get latest version
   def get_latest_version
-  	file_path = self.file_path
+  	file_path = self.file_path.sub("/",'')
     latest_change = Change.find(:first,:conditions=>["path = ? and id > ?",file_path,self.change_id],:order=>"id DESC")
      unless latest_change.blank?
     	latest_revision = latest_change.changeset.revision 
