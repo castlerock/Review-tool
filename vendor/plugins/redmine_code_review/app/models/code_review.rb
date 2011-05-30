@@ -206,6 +206,7 @@ class CodeReview < ActiveRecord::Base
     @all_children = @all_children.sort{|a, b| a.id <=> b.id}
   end
   
+  # This is to get latest version
   def get_latest_version
   	file_path = self.file_path
     latest_change = Change.find(:first,:conditions=>["path = ? and id > ?",file_path,self.change_id],:order=>"id DESC")
