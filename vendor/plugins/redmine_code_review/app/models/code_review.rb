@@ -206,7 +206,7 @@ class CodeReview < ActiveRecord::Base
     @all_children = @all_children.sort{|a, b| a.id <=> b.id}
   end
   
-  # Added by Vigram
+  # Added by Vigram 30th May 2011
   # This is to get latest version
   def get_latest_version
   	file_path = self.file_path
