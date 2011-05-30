@@ -1,169 +1,0 @@
-10
-
-dir
-5258
-http://redmine.rubyforge.org/svn/branches/1.1-stable/app/views
-http://redmine.rubyforge.org/svn
-
-
-
-2011-03-06T12:51:10.584890Z
-5013
-jplang
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-e93f8b46-1217-0410-a6f0-8f06a7374b81
-
-watchers
-dir
-
-auto_completes
-dir
-
-my
-dir
-
-members
-dir
-
-context_menus
-dir
-
-welcome
-dir
-
-journals
-dir
-
-time_entry_reports
-dir
-
-workflows
-dir
-
-reports
-dir
-
-layouts
-dir
-
-custom_fields
-dir
-
-settings
-dir
-
-timelog
-dir
-
-users
-dir
-
-issue_moves
-dir
-
-files
-dir
-
-previews
-dir
-
-ldap_auth_sources
-dir
-
-auth_sources
-dir
-
-search
-dir
-
-messages
-dir
-
-issue_relations
-dir
-
-versions
-dir
-
-mailer
-dir
-
-boards
-dir
-
-attachments
-dir
-
-news
-dir
-
-trackers
-dir
-
-groups
-dir
-
-issue_statuses
-dir
-
-roles
-dir
-
-wikis
-dir
-
-repositories
-dir
-
-admin
-dir
-
-common
-dir
-
-projects
-dir
-
-account
-dir
-
-calendars
-dir
-
-issue_categories
-dir
-
-gantts
-dir
-
-documents
-dir
-
-wiki
-dir
-
-activities
-dir
-
-enumerations
-dir
-
-issues
-dir
-
-queries
-dir
-

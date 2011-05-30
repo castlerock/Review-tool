@@ -205,4 +205,15 @@ class CodeReview < ActiveRecord::Base
     }
     @all_children = @all_children.sort{|a, b| a.id <=> b.id}
   end
+  
+  def get_latest_version
+  	file_path = self.file_path
+    latest_change = Change.find(:first,:conditions=>["path = ? and id > ?",file_path,self.change_id],:order=>"id DESC")
+     unless latest_change.blank?
+    	latest_revision = latest_change.changeset.revision 
+   	    new_change_id = latest_change.id
+   	 end
+   return latest_revision,new_change_id
+  end
+  
 end

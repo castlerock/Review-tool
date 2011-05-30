@@ -1,79 +1,0 @@
-10
-
-dir
-5258
-http://redmine.rubyforge.org/svn/branches/1.1-stable/vendor/plugins
-http://redmine.rubyforge.org/svn
-
-
-
-2011-03-21T06:17:06.474601Z
-5184
-tmaruyama
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-e93f8b46-1217-0410-a6f0-8f06a7374b81
-
-ruby-net-ldap-0.0.4
-dir
-
-acts_as_attachable
-dir
-
-acts_as_searchable
-dir
-
-acts_as_watchable
-dir
-
-engines
-dir
-
-classic_pagination
-dir
-
-acts_as_versioned
-dir
-
-acts_as_tree
-dir
-
-acts_as_customizable
-dir
-
-prepend_engine_views
-dir
-
-rfpdf
-dir
-
-acts_as_activity_provider
-dir
-
-gravatar
-dir
-
-acts_as_list
-dir
-
-open_id_authentication
-dir
-
-awesome_nested_set
-dir
-
-acts_as_event
-dir
-

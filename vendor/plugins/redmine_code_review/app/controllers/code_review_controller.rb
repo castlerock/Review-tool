@@ -162,7 +162,6 @@ class CodeReviewController < ApplicationController
       @change = chg if ((chg.path == fullpath) or ('/' + chg.path == fullpath))
     }
 
-debugger
     unless @change
       @changeset = changeset
       @reviews = CodeReview.find(:all, :conditions => ['file_path = ? and rev = ? and issue_id is NOT NULL', @path, @rev])
