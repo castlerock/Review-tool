@@ -206,8 +206,7 @@ class CodeReview < ActiveRecord::Base
     @all_children = @all_children.sort{|a, b| a.id <=> b.id}
   end
   
-  # Added by Vigram 30th May 2011 - Review
-  # Just for A TEST
+  # Added by Vigram 30th May 2011
   # This is to get latest version
   def get_latest_version
   	Repository.fetch_changesets
