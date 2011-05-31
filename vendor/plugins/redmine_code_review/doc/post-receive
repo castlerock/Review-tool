@@ -14,5 +14,4 @@
 
 echo "running post-receive hook..."
 cd /Users/Project/Workspace/Project-Name/
-rvm use system
 ruby script/runner "Repository.fetch_changesets" -e production
