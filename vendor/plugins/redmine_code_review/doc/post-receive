@@ -13,6 +13,6 @@
 #
 
 echo "running post-receive hook..."
-cd /Users/vigram/Documents/Aptana\ Studio\ 3\ Workspace/Redmine/
+cd /Users/Project/Workspace/Project-Name/
 rvm use system
 ruby script/runner "Repository.fetch_changesets" -e production
