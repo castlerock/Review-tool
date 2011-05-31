@@ -210,6 +210,7 @@ class CodeReview < ActiveRecord::Base
   # Just for A TEST
   # This is to get latest version
   def get_latest_version
+  	Repository.fetch_changesets
   	file_path = self.file_path.sub("/",'')
     latest_change = Change.find(:first,:conditions=>["path = ? and id > ?",file_path,self.change_id],:order=>"id DESC")
      unless latest_change.blank?
